@@ -1,0 +1,10 @@
+*.o
+*.bak
+*.swp
+*.swo
+*.log
+*.pyc
+.DS_Store
+deprecated/
+output.dat
+main
